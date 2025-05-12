@@ -1,4 +1,4 @@
------------------------------------------📚 Course Recommendation System---------------------------------------------------------------------
+-----------------------------------------📚 Course Recommendation System---------------------------------------------------
 An interactive web app to explore, recommend, and manage online courses using Streamlit, Pandas, and Scikit-learn. Designed for both users and admins with an intuitive interface.
 
 
