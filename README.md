@@ -46,3 +46,6 @@ pip install -r requirements.txt
 python -m streamlit run data/app.py 
 
 Then open the URL shown in your terminal (usually http://localhost:8501) in a browser.
+
+
+#python -m streamlit run data/app.py
