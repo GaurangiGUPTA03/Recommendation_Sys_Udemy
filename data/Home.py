@@ -11,7 +11,7 @@ def load_home_tab(df):
 
     # Paths and titles
     image_folder = os.path.join(os.path.dirname(__file__), 'image')
-    image_files = ['Business_Finance.gif', 'Graphic_Design.gif', 'Musical_Instruments.gif', 'Web_Dev.gif']
+    image_files = ['Business_Finance.gif', 'Graphic_Design.gif', 'Musical_Instruments.gif', 'web_Dev.gif']
     image_titles = ['Business Finance', 'Graphic Design', 'Musical Instruments', 'Web Development']
     image_paths = [os.path.join(image_folder, file) for file in image_files]
 
